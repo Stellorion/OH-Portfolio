@@ -72,7 +72,7 @@ export default function EducationSection({ educationRef }: EducationSectionProps
                 {
                   position: "Personal Project",
                   company: "Freelance",
-                  years: "2025 - Present",
+                  years: "2025 - 2025",
                   description:
                     "Developing a to-do list app with a calendar and user authentication (login/signup) using Next.js. The project is connected to a database via Prisma to manage user data.",
                 },

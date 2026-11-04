@@ -23,13 +23,12 @@ const projects: Project[] = [
     image: "/enter-planner.png",
   },
   {
-    title: "Portfolio Website",
+    title: "OHClicker",
     description:
-      "A responsive portfolio website with dark mode and animations.",
-    tech: ["Next.js", "Tailwind CSS", "Framer Motion"],
-    url: "https://github.com/Stellorion/oh-portfolio",
-    website: "https://oh-portfolio.vercel.app",
-    image: "/oh-portfolio.png",
+      "OHClicker is a desktop auto-clicker featuring precise clicking, screen mapping, coordinate jitter, boundary controls, and custom click sequences.",
+    tech: ["React", "Rust", "Tauri"],
+    url: "https://github.com/Stellorion/OHClicker",
+    image: "/ohclicker.png",
   },
   {
     title: "OH-AHK-Scripts",
@@ -52,7 +51,7 @@ const projects: Project[] = [
       "A desktop app in C# with Windows Forms and OpenCV for image processing, allowing users to draw, apply filters, and add text overlays.",
     tech: ["C#", "OpenCV", "Windows Forms"],
     url: "https://github.com/Stellorion/PixelMaster",
-    image: "/Pixelmaster.png",
+    image: "/pixelmaster.png",
   },
   {
     title: "Py-Encryption",

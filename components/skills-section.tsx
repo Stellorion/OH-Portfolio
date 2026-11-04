@@ -73,6 +73,7 @@ export default function SkillsSection({ skillsRef }: SkillsSectionProps) {
                 "QA",
                 "Python",
                 "C / C++",
+                "Rust / Tauri"
               ].map((skill, index) => (
                 <div
                   key={index}
