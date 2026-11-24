@@ -105,7 +105,7 @@ const ProjectsSection = ({
                   alt={project.title}
                   width={500}
                   height={300}
-                  className="object-cover w-full h-full group-hover:scale-110 transition-transform duration-500"
+                  className="object-fill w-full h-full group-hover:scale-110 transition-transform duration-500"
                   priority={index < 3}
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent opacity-0 group-hover:opacity-100 transition-opacity flex items-end justify-center p-4 space-x-2">
