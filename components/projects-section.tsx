@@ -51,7 +51,7 @@ const projects: Project[] = [
       "A desktop app in C# with Windows Forms and OpenCV for image processing, allowing users to draw, apply filters, and add text overlays.",
     tech: ["C#", "OpenCV", "Windows Forms"],
     url: "https://github.com/Stellorion/PixelMaster",
-    image: "/pixelmaster.png",
+    image: "/pixel-master.png",
   },
   {
     title: "Py-Encryption",
